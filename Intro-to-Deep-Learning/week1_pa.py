@@ -24,8 +24,8 @@ grader = grading.Grader(assignment_key="UaHtvpEFEee0XQ6wjK-hZg",
 # In[14]:
 
 # token expires every 30 min
-COURSERA_TOKEN = "KnCaAgvg4k4OsVUm"
-COURSERA_EMAIL = "1521109@iub.edu.bd"
+COURSERA_TOKEN = ""
+COURSERA_EMAIL = ""
 
 
 # ## Two-dimensional classification
